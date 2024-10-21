@@ -2,7 +2,7 @@ new Vue({
   el: "#app",
   data() {
     return {
-      isOpenedTop: true,
+      isOpenedTop: false,
       items: [
         {
           img1: "images/21.jpg",
