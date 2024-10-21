@@ -6,14 +6,14 @@ new Vue({
       items: [
         {
           img1: "images/21.jpg",
-          img2: "images/22.png",
-          img3: "images/23.jpg",
+          img2: "images/22.PNG",
+          img3: "images/23.JPG",
           title: "COUPLE",
           isOpen: false,
         },
         {
-          img1: "images/31.png",
-          img2: "images/32.jpg",
+          img1: "images/31.PNG",
+          img2: "images/32.JPG",
           img3: "images/33.jpg",
           title: "COUPLE",
           isOpen: false,
@@ -21,19 +21,19 @@ new Vue({
         {
           img1: "images/41.jpg",
           img2: "images/42.jpg",
-          img3: "images/43.jpg",
+          img3: "images/43.JPG",
           title: "COUPLE",
           isOpen: false,
         },
         {
-          img1: "images/51.jpg",
-          img2: "images/52.jpg",
-          img3: "images/53.png",
+          img1: "images/51.JPG",
+          img2: "images/52.JPG",
+          img3: "images/53.PNG",
           title: "COUPLE",
           isOpen: false,
         },
         {
-          img1: "images/11.jpg",
+          img1: "images/11.JPG",
           img2: "images/12.jfif",
           img3: "images/13.jpg",
           title: "COUPLE",
