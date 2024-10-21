@@ -11,9 +11,6 @@ body {
   font-family: "Cute Font", cursive;
   background: #595757;
   overflow: hidden;
-  /* background-image: url(images/back.webp);
-  background-repeat: no-repeat;
-  background-size: contain; */
 }
 
 * {
